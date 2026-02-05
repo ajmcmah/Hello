@@ -1,4 +1,4 @@
-namespace сидоров
+namespace сидоров_юлдошев
 {
     public partial class Form1 : Form
     {
