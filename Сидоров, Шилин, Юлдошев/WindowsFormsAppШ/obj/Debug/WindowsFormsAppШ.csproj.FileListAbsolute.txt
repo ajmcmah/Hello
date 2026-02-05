@@ -1,0 +1,10 @@
+C:\Users\student405.IT\Documents\Сидоров\WindowsFormsAppШ\bin\Debug\WindowsFormsAppШ.exe.config
+C:\Users\student405.IT\Documents\Сидоров\WindowsFormsAppШ\bin\Debug\WindowsFormsAppШ.exe
+C:\Users\student405.IT\Documents\Сидоров\WindowsFormsAppШ\bin\Debug\WindowsFormsAppШ.pdb
+C:\Users\student405.IT\Documents\Сидоров\WindowsFormsAppШ\obj\Debug\WindowsFormsAppШ.csproj.AssemblyReference.cache
+C:\Users\student405.IT\Documents\Сидоров\WindowsFormsAppШ\obj\Debug\WindowsFormsAppШ.Form1.resources
+C:\Users\student405.IT\Documents\Сидоров\WindowsFormsAppШ\obj\Debug\WindowsFormsAppШ.Properties.Resources.resources
+C:\Users\student405.IT\Documents\Сидоров\WindowsFormsAppШ\obj\Debug\WindowsFormsAppШ.csproj.GenerateResource.cache
+C:\Users\student405.IT\Documents\Сидоров\WindowsFormsAppШ\obj\Debug\WindowsFormsAppШ.csproj.CoreCompileInputs.cache
+C:\Users\student405.IT\Documents\Сидоров\WindowsFormsAppШ\obj\Debug\WindowsFormsAppШ.exe
+C:\Users\student405.IT\Documents\Сидоров\WindowsFormsAppШ\obj\Debug\WindowsFormsAppШ.pdb

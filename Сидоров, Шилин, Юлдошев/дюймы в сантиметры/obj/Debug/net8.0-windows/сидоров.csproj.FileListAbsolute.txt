@@ -1,0 +1,16 @@
+C:\Users\student405.IT\Documents\Сидоров\сидоров\bin\Debug\net8.0-windows\сидоров.exe
+C:\Users\student405.IT\Documents\Сидоров\сидоров\bin\Debug\net8.0-windows\сидоров.deps.json
+C:\Users\student405.IT\Documents\Сидоров\сидоров\bin\Debug\net8.0-windows\сидоров.runtimeconfig.json
+C:\Users\student405.IT\Documents\Сидоров\сидоров\bin\Debug\net8.0-windows\сидоров.dll
+C:\Users\student405.IT\Documents\Сидоров\сидоров\bin\Debug\net8.0-windows\сидоров.pdb
+C:\Users\student405.IT\Documents\Сидоров\сидоров\obj\Debug\net8.0-windows\сидоров.Form1.resources
+C:\Users\student405.IT\Documents\Сидоров\сидоров\obj\Debug\net8.0-windows\сидоров.csproj.GenerateResource.cache
+C:\Users\student405.IT\Documents\Сидоров\сидоров\obj\Debug\net8.0-windows\сидоров.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student405.IT\Documents\Сидоров\сидоров\obj\Debug\net8.0-windows\сидоров.AssemblyInfoInputs.cache
+C:\Users\student405.IT\Documents\Сидоров\сидоров\obj\Debug\net8.0-windows\сидоров.AssemblyInfo.cs
+C:\Users\student405.IT\Documents\Сидоров\сидоров\obj\Debug\net8.0-windows\сидоров.csproj.CoreCompileInputs.cache
+C:\Users\student405.IT\Documents\Сидоров\сидоров\obj\Debug\net8.0-windows\сидоров.dll
+C:\Users\student405.IT\Documents\Сидоров\сидоров\obj\Debug\net8.0-windows\refint\сидоров.dll
+C:\Users\student405.IT\Documents\Сидоров\сидоров\obj\Debug\net8.0-windows\сидоров.pdb
+C:\Users\student405.IT\Documents\Сидоров\сидоров\obj\Debug\net8.0-windows\сидоров.genruntimeconfig.cache
+C:\Users\student405.IT\Documents\Сидоров\сидоров\obj\Debug\net8.0-windows\ref\сидоров.dll
